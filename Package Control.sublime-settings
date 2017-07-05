@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"HTML5",
+		"MavensMate",
+		"Package Control",
+		"Terminal",
+		"Visualforce",
+		"VisualforcePreview"
+	]
+}
