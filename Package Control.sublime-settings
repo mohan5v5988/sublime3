@@ -5,10 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"HTML5",
+		"Material Theme",
 		"MavensMate",
 		"Package Control",
 		"Terminal",
+		"Trimmer",
 		"Visualforce",
 		"VisualforcePreview"
 	]
