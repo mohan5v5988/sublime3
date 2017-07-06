@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"DocBlockr",
 		"Git",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery",
 		"Material Theme",
