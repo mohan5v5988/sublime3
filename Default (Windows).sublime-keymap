@@ -3,7 +3,7 @@
 	{ "keys": ["f1"], "command": "fold" },
 	{ "keys": ["f2"], "command": "unfold" },
 	{ "keys": ["ctrl+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
-
+	{ "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "find_in_files"} },
 	{ "keys": ["ctrl+space"], "command": "auto_complete" },
 	{ "keys": ["ctrl+space"], "command": "replace_completion_with_auto_complete", "context":
 	[
